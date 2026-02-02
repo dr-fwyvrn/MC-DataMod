@@ -1,0 +1,8 @@
+{
+    "mod": {
+        "description": "This is the description of your data mod",
+        "author": "drfwyvrn",
+        "min_format": 1,
+        "max_format": 1
+    }
+}
